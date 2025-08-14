@@ -1,3 +1,6 @@
 # 21 Star Plus
 
-nijas
+Contributers:
+* Nijas
+* Shamveel
+* Nadeer
